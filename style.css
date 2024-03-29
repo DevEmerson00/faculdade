@@ -1,0 +1,27 @@
+body {
+  color: #fff;
+  background-color: #1c1c1c;
+  font-family: arial;
+  background-image: url(./fotos/wallpaper.jpg); /*Adicionei uma imagem de fundo na pagina inicial */
+  background-position: center center; /*centralizar a imagem na horizontal e na vertical*/
+}
+h1 {
+  text-align: center; /* alinhar texto ao centro da conteúdo*/
+}
+h2 {
+  text-align: center;
+  margin: 50px;
+}
+div {
+  display: grid; /* grid para dimensionar os links*/
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px;
+}
+a {
+  text-decoration: none; /*Retirar o sublinhado do link*/
+  text-align: center;
+  padding: 50px;
+  background-color: #ff8c00;
+  color: #fff;
+  border-radius: 15px;
+}

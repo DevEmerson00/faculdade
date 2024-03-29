@@ -1,0 +1,33 @@
+body {
+  background-color: #353535;
+}
+img {
+  max-width: 300px;
+}
+#grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5px;
+}
+h1 {
+  padding: 25px;
+  background-color: #1e1e1e;
+  text-align: center;
+  text-decoration: wavy;
+  color: #fff;
+}
+P {
+  background: #f7f7f7;
+  border: 1px solid #e7e7e7;
+  padding: 30px;
+  border-radius: 4px;
+}
+#imagem {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  padding: 10px;
+  background-color: #ff8c00;
+  color: #fff;
+}

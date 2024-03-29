@@ -1,0 +1,22 @@
+body {
+  color: #fff;
+  background-color: #1c1c1c;
+  font-family: arial;
+}
+h1 {
+  text-align: center;
+  background-color: #111;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+p {
+  margin-left: 30px;
+}
+a {
+  text-decoration: none;
+  padding: 10px;
+  background-color: #ff8c00;
+  color: #fff;
+}

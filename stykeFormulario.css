@@ -1,0 +1,23 @@
+body {
+  font-family: arial;
+  color: #f7f7f7;
+  background-color: #363636;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+button {
+  padding: 15px 25px;
+}
+form {
+  background-color: #111;
+}
+a {
+  text-decoration: none;
+  padding: 10px;
+  background-color: #ff8c00;
+  color: #fff;
+}
